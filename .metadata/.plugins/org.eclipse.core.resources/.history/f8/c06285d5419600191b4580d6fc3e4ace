@@ -1,0 +1,42 @@
+public class MyPrac 
+{
+	
+	 String name;
+	 String type = "Cat";
+	 
+	 
+	public MyPrac(String name ,String type)
+	{
+		this.name=name;
+		this.type=type;
+		
+	}
+/*
+	int a =1;
+	int b = 2;
+	MyPrac func(MyPrac obj)
+	{
+		MyPrac m1= new MyPrac();
+		m1 = obj;
+		m1.a = obj.a++ + ++obj.b;
+		obj.b = obj.b;
+		return m1;
+	}*/
+	public static void main(String[] args) {
+		MyPrac m1 = new MyPrac("Dog");
+		System.out.println(m1.name);
+		System.out.println(m1.type);
+		
+		
+		
+		// TODO Auto-generated method stub
+		/*
+		MyPrac obj1 = new MyPrac();
+		MyPrac obj2 = obj1.func(obj1);
+	
+		System.out.println(obj1.a +"  " + obj1.b  );
+		
+		System.out.println(obj2.a +"  " + obj2.b  );*/
+	}
+
+}

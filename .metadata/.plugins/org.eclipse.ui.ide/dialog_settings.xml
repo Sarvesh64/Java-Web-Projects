@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\HP\Desktop\Cdac HTML Practice\Downloaded Content\CRUD-spring-hibernate-tutorial.zip"/>
+		<item value="C:\Users\HP\Desktop\Cdac HTML Practice\Downloaded Content\028SpringHibernateMVC.zip"/>
+		<item value="D:\Project\NetBeansProjects\JavaApplication1"/>
+		<item value="D:\Project\NetBeansProjects\CarService"/>
+	</list>
+	<section name="NewWizardAction">
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="F:\Java Web Projects\029SpringHibernateCustomerMVC"/>
+			<item value="F:\Java Web Projects\028SpringHibMVC_Person_CustomerAPP"/>
+			<item value="F:\Java Web Projects\000DemoApp"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="433"/>
+		<item key="DIALOG_Y_ORIGIN" value="96"/>
+		<item key="DIALOG_WIDTH" value="500"/>
+		<item key="DIALOG_HEIGHT" value="402"/>
+		<item key="TOGGLE_SELECTED" value="true"/>
+	</section>
+</section>
